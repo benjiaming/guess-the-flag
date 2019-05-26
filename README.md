@@ -3,6 +3,10 @@
 # Guess the Flag
 Can you tell which country has this flag?
 
-![](https://restcountries.eu/data/pyf.svg)
+<div align="center">
+  <a href="https://benjiaming.github.io/guess-the-flag/">
+    <img src="https://restcountries.eu/data/tha.svg" width="300px" />
+  </a>
+</div>
 
 Try your luck here: https://benjiaming.github.io/guess-the-flag/
