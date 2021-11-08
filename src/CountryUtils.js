@@ -13,14 +13,14 @@ export const getHint = (country) => {
 }
 
 export async function loadCountries(numCountries) {
-    const url = 'https://restcountries.eu/rest/v2/all';
+    const url = 'https://restcountries.com/v2/all';
 
     const result = await fetch(url).then(d => d.json());
     const countries = result.map(i => ({name: i.name, flag: i.flag, capital: i.capital, subregion: i.subregion}));
     const selectCountries = getRandomCountries(countries, numCountries);
     const currentCountry = getCurrentCountry(selectCountries);
     const hint = getHint(selectCountries[currentCountry]);
-    return {countries, selectCountries, currentCountry, hint, loaded: true};        
+    return {countries, selectCountries, currentCountry, hint, loaded: true};
   }
 
 
