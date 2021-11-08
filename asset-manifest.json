@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/guess-the-flag/static/css/main.6b089276.chunk.css",
-    "main.js": "/guess-the-flag/static/js/main.0db7658c.chunk.js",
-    "main.js.map": "/guess-the-flag/static/js/main.0db7658c.chunk.js.map",
+    "main.js": "/guess-the-flag/static/js/main.697f241b.chunk.js",
+    "main.js.map": "/guess-the-flag/static/js/main.697f241b.chunk.js.map",
     "runtime~main.js": "/guess-the-flag/static/js/runtime~main.2a5fba1d.js",
     "runtime~main.js.map": "/guess-the-flag/static/js/runtime~main.2a5fba1d.js.map",
     "static/js/2.c2232ace.chunk.js": "/guess-the-flag/static/js/2.c2232ace.chunk.js",
     "static/js/2.c2232ace.chunk.js.map": "/guess-the-flag/static/js/2.c2232ace.chunk.js.map",
     "index.html": "/guess-the-flag/index.html",
-    "precache-manifest.d92c286bf04a9c6d06e47d9bb0bcf020.js": "/guess-the-flag/precache-manifest.d92c286bf04a9c6d06e47d9bb0bcf020.js",
+    "precache-manifest.5b9089a4ebda7b31054d31a265e99576.js": "/guess-the-flag/precache-manifest.5b9089a4ebda7b31054d31a265e99576.js",
     "service-worker.js": "/guess-the-flag/service-worker.js",
     "static/css/main.6b089276.chunk.css.map": "/guess-the-flag/static/css/main.6b089276.chunk.css.map",
     "static/media/App.css": "/guess-the-flag/static/media/world.41c62db0.jpg"
